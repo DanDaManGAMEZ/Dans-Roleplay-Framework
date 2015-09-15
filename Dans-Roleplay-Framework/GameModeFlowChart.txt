@@ -1,0 +1,27 @@
+Character Creation, 
+
+Questing System, 
+
+NPC behavior, 
+
+Instances, 
+
+Targetting System, 
+
+Third person, 
+
+Spells, 
+
+Talent System, 
+
+Inventory System, 
+
+Character Armor and accesory Slots (With working armor), 
+
+Coded Items, Leveling system, Max level content,
+
+Trading system, 
+
+Maybe even an auction house system,
+
+Mount system.
